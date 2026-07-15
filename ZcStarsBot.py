@@ -28,11 +28,11 @@ from aiogram.types import (
 )
 
 # ====================== SOZLAMALAR ======================
-API_TOKEN = "8631595682:AAHogiKNsaUELs7D9_fs1CeodixU217BNRE"  # Bot tokeningiz
-ADMIN_ID = 8565856542  # O'zingizning Telegram ID raqamingiz
+API_TOKEN = "8424881018:AAF3fA9nw3VvJn38wJ7LOF4tAacJXledZcE"  # Bot tokeningiz
+ADMIN_ID = 8972090957  # O'zingizning Telegram ID raqamingiz
 CARD_NUMBER = "9860246602105347"  # Karta raqamingiz
 GRAM_PRICE = 20340  # 1 ta gram narxi (so'm)
-BOT_USERNAME = "@StarsPay_HUMOBot"  # Referal havola uchun bot username (@ siz)
+BOT_USERNAME = "@zc_tonbot"  # Referal havola uchun bot username (@ siz)
 
 DB_PATH = Path("db.json")
 
